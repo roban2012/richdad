@@ -1,0 +1,44 @@
+改config
+moban-GZ
+PG 2.0.0-2.7.0
+
+修改版权story00.
+新版
+
+
+
+
+<a href= "pic01.html">《资产负债表》</a>；<br><br>
+<a href= "pic02.html">《利润表》</a>；<br><br>
+<a href= "pic03.html">《小狗钱钱》</a> <br><br>
+
+
+
+<a href= "link01.html">日本翻译错了二战最后通牒</a><br><br>
+<a href= "link02.html">《现金流量表》</a>。<br><br>
+<a href= "link03.html">财会术语</a><br><br>
+
+
+
+----------------------------------
+财会基础知识:<br><br>
+
+
+<a href= "link03.html">财会术语</a><br><br>
+1、<a href= "pic01.html">《资产负债表》</a>；<br><br>
+2、<a href= "pic02.html">《利润表》</a>；<br><br>
+3、<a href= "link02.html">《现金流量表》</a>。<br><br>
+
+------------------------
+
+
+
+Old:
+
+<a href= "link01.html">日本翻译错了二战最后通牒</a><br><br>
+<a href= "link02.html">麦哲伦环球航海</a><br><br>
+ 
+
+<a href= "pic01.html">环球航线</a><br><br>
+<a href= "pic02.html">麦加（Mecca）大清真寺</a><br><br>
+ 
